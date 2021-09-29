@@ -14,12 +14,13 @@ author: Yi Yang, PhD
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://yiyangphd.github.io"
-  About Me: "aboutme"
-  Research: "research"
-  Publications: "publications"
-  Software: "software"
-  Contact: "contact"
+  首页: "https://yiyangphd.github.io/cn"
+  简介: "aboutme"
+  研究: "research"
+  论文: "publications"
+  软件: "software"
+  联系: "contact"
+  英文: "https://yiyangphd.github.io"
   
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
