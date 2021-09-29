@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Software
+title: 软件
 ---
 
-### R Packages
+### R语言程序包
 
 - [**KnockoffTrio**](https://github.com/yiyangphd/KnockoffTrio): a computationally efficient tool for the identification of causal loci in whole-genome sequencing family trio data. It also provides a meta-analysis module for combining the results of multiple studies. It implements the method in **KnockoffTrio: A knockoff framework for the trio design**. The package has been completed and will be available to the public shortly.
 
