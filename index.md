@@ -8,7 +8,7 @@ order: 1
 
 ### 动态
 
-- **2021年9月**: 开发R语言程序包[**HSVS-M**](https://github.com/yiyangphd/HSVSM)，可同时检测多个遗传标记和多个性状的关联性
+- **2021年9月**: 开发R语言程序包[**HSVS-M**](https://github.com/yiyangphd/HSVSM)，可同时检测多个遗传变异点位和多个性状的关联性
 
 - **2021年6月**: 提交论文《**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**》
 
