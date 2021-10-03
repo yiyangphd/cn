@@ -7,10 +7,10 @@ title: 简介
 
 - 博士，生物统计学，美国明尼苏达大学
    - 导师：[Lin Zhang博士](https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang)和[Saonli Basu博士](https://directory.sph.umn.edu/bio/sph-a-z/saonli-basu) 
-   - 论文：Bayesian hierarchical variable selection methods with applications to genome-wide association studies
+   - 课题：Bayesian hierarchical variable selection methods with applications to genome-wide association studies
 - 学士，信息管理与信息系统，浙江大学
    - 导师：[王求真博士](https://www.x-mol.com/university/faculty/301513)
-   - 论文：Effects of human images on B2C websites
+   - 课题：Effects of human images on B2C websites
 
 ### 工作经历
 
