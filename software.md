@@ -5,9 +5,8 @@ title: 软件
 
 ### R语言程序包
 
-- [**KnockoffTrio**](https://github.com/yiyangphd/KnockoffTrio): a computationally efficient tool for the identification of causal loci in whole-genome sequencing family trio data. It also provides a meta-analysis module for combining the results of multiple studies. It implements the method in **KnockoffTrio: A knockoff framework for the trio design**. The package has been completed and will be available to the public shortly.
+- [**KnockoffTrio**](https://github.com/yiyangphd/KnockoffTrio): 用于在以家庭为单位的全基因组测序数据中发掘致病基因点位，同时具备元分析功能。统计学方法请参见论文《KnockoffTrio: A knockoff framework for the trio design》。该程序包已完成，将于短期内向公众开放。
 
-- [**HSVS-M**](https://github.com/yiyangphd/HSVSM): a Bayesian method for multi-variant multi-trait association testing using summary statistics. It implements the method in **A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies**. 
+- [**HSVS-M**](https://github.com/yiyangphd/HSVSM): 仅需概括统计量便可同时检测多个遗传变异点位和多个性状的关联性。统计学方法请参见论文《A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies》。
 
-- **HSVS-A**: a Bayesian method for rare-variant association testing. It implements the method in [**A Bayesian hierarchically structured prior for rare‐variant
-association testing**](https://doi.org/10.1002/gepi.22379). The package is in progress.
+- **HSVS-A**: 用于检测罕见遗传变异点位和单性状的关联性。统计学方法请参见论文《[A Bayesian hierarchically structured prior for rare‐variant association testing](https://doi.org/10.1002/gepi.22379)》。该程序包正在创建中。
