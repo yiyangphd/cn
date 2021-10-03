@@ -5,12 +5,12 @@ use-site-title: true
 order: 1
 ---
 
-我的主要研究领域为高维数据中的变量选择方法。变量选择，也被称为特征选择，是许多科学问题的核心，例如寻找人类基因组中的致病基因。
+我的主要研究课题为高维数据中的变量选择方法。变量选择，又称特征选择，是解决许多科学问题的关键，例如寻找人类基因组中的致病基因。
 
 ### 1. 基于贝叶斯模型的变量选择
 
-A typical task in many scientific problems is to find important factors in predicting an outcome variable. This task is further complicated by the fact that a factor may consist of a group of variables. I work on statistical methods in this context to identify important (groups of) variables. In particular, I have developed a family of Bayesian hierarchical models that can achieve group selection and within-group variable selection simultaneously. The proposed methods can also account for various correlation structures between the variables. 
+科学研究中的一个常见问题是在众多自变量中发掘能够预测因变量的关键变量。同时，一个变量可以由多个变量组成，使得变量选择在结构上更加复杂。为此，我致力于研究贝叶斯层次模型，用于在复杂结构下进行变量选择。目前，我所提出并发表的贝叶斯模型能够在变量间存在复杂相关性和结构关系的情境下同时实现组间和组内变量的选择。
 
-### 2. 基于对照变量框架的变量选择
+### 2. 基于仿制变量模型的变量选择
 
-False discoveries render research findings irreproducible, a long-standing challenge to researchers. They often occur when the truly important factors are correlated with the non-important ones. I work on knockoff statistics to design knockoff variables that preserve the correlation structure of the original variables. This property allows a variable selection procedure based on the knockoff variables to control the false discovery rate in the presence of correlation between the important and non-important variables.
+当一个科学研究的结果难以被复现，通常意味着这个研究的发现可能是错误的。在涉及变量选择的科学研究中，若不重要的变量由于与真正重要的关键变量间存在相关性而被误认为关键变量，那么错误发现便会产生。如何减少错误发现是一个在科研工作中长期存在的问题。为此，我致力于研究仿制变量模型，通过其精确模拟原始变量间的相关性，以降低科学研究中的错误发现率。
