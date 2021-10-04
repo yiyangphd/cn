@@ -12,7 +12,7 @@ order: 1
 
 - **2021年6月**: 提交论文《**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**》
 
-- **2021年5月**: 在哥伦比亚大学医学院统计遗传学期刊研讨会发表题为《**Knockoff statistics and applications to genome-wide association studies**》的演讲
+- **2021年5月**: 在哥伦比亚大学医学院统计遗传学期刊研讨会发表题为《**Knockoff statistics and applications to genome-wide association studies**》的学术报告
 
 - **2021年2月**: 发表论文《[**A Bayesian hierarchically structured prior for rare‐variant association testing**](https://doi.org/10.1002/gepi.22379)》于《Genetic Epidemiology》
 
