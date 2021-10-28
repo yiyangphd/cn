@@ -20,4 +20,4 @@ title: 论文
 
 **即将发表**
 
-15. **Yang, Y.**, Wang, C., & Ionita-Laza, I. (2021+). KnockoffTrio: A knockoff framework for the trio design. Working manuscript.
+15. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2021+). KnockoffTrio: A knockoff framework for the identification of putative causal variants in genetic association studies with trio design. 
