@@ -8,9 +8,9 @@ order: 1
 
 ### 动态
 
-- **2021年9月**: 开发R语言程序包[**HSVS-M**](https://github.com/yiyangphd/HSVSM)，可同时检测多个遗传变异点位和多个性状的关联性
+- **2021年11月**: 发表论文《[**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437)》于《Genetic Epidemiology》
 
-- **2021年6月**: 提交论文《**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**》
+- **2021年9月**: 开发R语言程序包[**HSVS-M**](https://github.com/yiyangphd/HSVSM)，可同时检测多个遗传变异点位和多个性状的关联性
 
 - **2021年5月**: 在哥伦比亚大学医学院统计遗传学期刊研讨会发表题为《**Knockoff statistics and applications to genome-wide association studies**》的学术报告
 
