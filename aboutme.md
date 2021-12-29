@@ -3,6 +3,8 @@ layout: page
 title: 简介
 ---
 
+[学术履历](https://github.com/yiyangphd/cn/raw/main/assets/Yi%20Yang%20Curriculum%20Vitae%2020211229%20%E4%B8%AD%E6%96%87.pdf) (更新日期: 2021年12月29日)
+
 ### 教育经历
 
 - 博士，生物统计学，明尼苏达大学
