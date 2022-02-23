@@ -2,7 +2,7 @@
 layout: page
 title: 论文
 ---
-
+*通讯作者
 1. **Yang, Y.***, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for gene-based association test with multiple traits in genome-wide association studies.](https://doi.org/10.1002/gepi.22437) Genetic Epidemiology, 46(1), 63-72.
 2. **Yang, Y.***, Basu, S., & Zhang, L. (2021). [A Bayesian hierarchically structured prior for rare-variant association testing.](https://doi.org/10.1002/gepi.22379) Genetic Epidemiology, 45(4), 413-424.
 3. **Yang, Y.**, Basu, S., & Zhang, L. (2020). [A Bayesian hierarchical variable selection prior for pathway-based GWAS using summary statistics.](https://doi.org/10.1002/sim.8442) Statistics in Medicine, 39, 724–739. 
@@ -20,6 +20,4 @@ title: 论文
 
 **即将发表**
 
-15. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2021+). KnockoffTrio: A knockoff framework for the identification of putative causal variants in genetic association studies with trio design. 
-
-*通讯作者
+15. **Yang, Y.**, Wang, C., Liu, L., Buxbaum, J., He, Z., & Ionita-Laza, I. (2022+). KnockoffTrio: A knockoff framework for the identification of putative causal variants in genetic association studies with trio design. 
