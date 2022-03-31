@@ -8,6 +8,8 @@ order: 1
 
 ### 动态
 
+- **2022年3月**: 提交论文《[**KnockoffTrio: A knockoff framework for the identification of putative causal variants in genome-wide association studies with trio design**](http://www.columbia.edu/~ii2135/ms_knockofftrio.pdf)》
+
 - **2021年12月**: 在北京师范大学京师青年学者论坛发表题为《**Bayesian hierarchical models and knockoff statistics for variable selection**》的学术报告
 
 - **2021年11月**: 发表论文《[**A Bayesian hierarchically structured prior for gene-based association testing with multiple traits in genome-wide association studies**](https://doi.org/10.1002/gepi.22437)》于《Genetic Epidemiology》
